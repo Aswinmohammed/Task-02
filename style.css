@@ -1,41 +1,58 @@
 body{
+    display: flex;
     background-color: #0056D2;
-    
 }
+
 
 img {
-    width: 40%;
+    
+    width: 45%;
     border-radius: 8px;
-    display: block;
-    margin: 0% 10% 10% 50%;
-}
+    margin-top: 10%;
+    float:right;
 
 
-#first-para{
-    font-family: "Open Sans", sans-serif;
-    color: white;
-    font-size: 30px;
-    
-}
-
-#second-para {
-    font-family: "Open Sans", sans-serif;
-    font-size: 12px;
-    color: whitesmoke;
-    font-weight: 10px;
-    
-}
-div{
-    padding: 10px;
 }
 
 button {
     border-radius: 5px;
     color: #0056D2;
     padding: 5px;
-    width: 100px;
+    width: 110px;
     font-family: "Open Sans", sans-serif;
     border: 1px  solid  gainsboro ;
     font-size: 15px;
     font-weight: bold;
+   
 }
+
+.container-1{
+    
+    margin-top: 10%;
+    margin-left: 7%;
+   
+}
+div{
+    margin-top: 15px;
+    margin-right: 25px;
+}
+
+
+#first-para{
+
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    font-size: 40px;
+   
+    
+}
+
+#second-para {
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    color: whitesmoke;
+    
+}
+
+  
+
